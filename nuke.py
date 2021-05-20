@@ -64,9 +64,13 @@ async def channel(ctx, choice):
 
 @client.command()
 async def logout(ctx):
-    if ctx.author.id == ownerID: #refer to README.md in the main directory.
+  
+#-----------------------------------------------------------------------------------------------------------------------
+  #change the value from `ownerID` below to your discord ID
+    if ctx.author.id == ownerID:
         await client.logout()
     else:
         await ctx.send('You cant do that :warning:')
 
-client.run('BOT_TOKEN') #refer to README.md in the main directory.
+#-----------------------------------------------------------------------------------------------------------------------
+client.run('BOT_TOKEN') 
