@@ -34,26 +34,43 @@ A simple discord bot with customized features, more than a normal discord bot.
 
 # Set-up: Script
 
-1. Open [Repl.it](https://replit.com). Sign in to your account if already not.
-2. Click on `New repl`.
-3. Select the tab `Import from GitHub`.
-4. Type `developer1029/dragon` in the empty space then click on the [blue](#) `Import from GitHub` button.
-5. Fill in the values as shown in the example below and click `Done`.
-6. Open `nuke.py` file and scroll down to the end of the code.
-7. In line no. *70*, replace `ownerID` with your Discord developer ID.
-   In line no. *76*, replace `BOT_TOKEN` with your bot token.(See `Get the Bot Token` above).
-8. Run the code by clicking `RUN` button on the top.
+#### 1. Open [Repl.it](https://replit.com). Sign in to your account if already not.
+
+#### 2. Click on `New repl`.
+![](https://cdn.discordapp.com/attachments/596910841782206464/844908933298126858/1.png)
+
+#### 3. Select the tab `Import from GitHub`.
+![](https://cdn.discordapp.com/attachments/596910841782206464/844908934397034536/2.png)
+
+#### 4. Type `developer1029/dragon` in the empty space then click on the [blue](#) `Import from GitHub` button.
+![](https://cdn.discordapp.com/attachments/596910841782206464/844908936914141244/3.png)
+![](https://cdn.discordapp.com/attachments/596910841782206464/844908936816754698/4.png)
+
+#### 5. Fill in the values as shown in the example below and click `Done`.
+![](https://cdn.discordapp.com/attachments/596910841782206464/844912325521309696/dd.png)
+
+#### 6. Open `nuke.py` file and scroll down to the end of the code.
+
+#### 7. In line no. *70*, replace `ownerID` with your Discord developer ID.
+
+#### In line no. *76*, replace `BOT_TOKEN` with your bot token.(See `Get the Bot Token` above).
+![](https://cdn.discordapp.com/attachments/596910841782206464/844912335926722600/7_3.png)
+   
+#### 8. Run the code by clicking `RUN` button on the top.
+![](https://cdn.discordapp.com/attachments/596910841782206464/844912325052071936/7_4.png)
+
+ ------------- 
 
 # How to Invite?
 
-1. ## Click on this [INVITE](https://discord.com/api/oauth2/authorize?client_id=844239139229401159&permissions=8&scope=bot) button.
+#### 1. Click on this [INVITE](https://discord.com/api/oauth2/authorize?client_id=844239139229401159&permissions=8&scope=bot) button.
 
-2. ## Inviting the Bot:
+#### 2. Inviting the Bot:
 | Invite Interface | Selecting the server | Authorizing permissions |
 | ------------- | ------------- | ------------- |
 | ![image1](https://media.discordapp.net/attachments/699467108836311112/844878119391199242/Screenshot_3.png) | ![image2](https://media.discordapp.net/attachments/699467108836311112/844878125800488980/Screenshot_4.png) | ![image3](https://media.discordapp.net/attachments/699467108836311112/844878126487568395/Screenshot_6.png?width=283&height=426) |
 
-3. ## Completing the Verification:
+#### 3. Completing the Verification:
 | Completing the Captcha Verification | Bot successfully added to the server |
 | ------------- | ------------- |
 | ![image4](https://media.discordapp.net/attachments/699467108836311112/844878129298014208/Screenshot_7.png) | ![image5](https://media.discordapp.net/attachments/699467108836311112/844878132413595668/Screenshot_8.png) |
