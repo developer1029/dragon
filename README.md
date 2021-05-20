@@ -81,5 +81,6 @@ A simple discord bot with customized features, more than a normal discord bot.
 
 ## Contact Me
 
-﹒[Discord](https://discord.com/users/527489750815342625)
-﹒[Discord Server](https://discord.gg/4pSvm3g)
+### ﹒[Discord ID](https://discord.com/users/527489750815342625)
+### [Discord Server](https://discord.gg/4pSvm3g)
+-------------------
